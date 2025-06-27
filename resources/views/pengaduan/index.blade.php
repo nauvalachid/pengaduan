@@ -28,7 +28,7 @@
             @endif
 
             {{-- Tabel Pengaduan --}}
-            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
+          <div class="bg-black overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="relative overflow-x-auto">
                     <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
                         <thead style="background-color: #CFB53B;" class="text-xs uppercase text-black">
